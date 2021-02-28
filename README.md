@@ -14,7 +14,7 @@
 
 **Esse Bot** trabalha em conjunto com uma aplicação escrita em C# para ouvir eventos  do **Among Us** e mutar e desmutar os usuarios que estão jogando uma partida pelo canal de Voz do Servidor.
 
-Você pode encontrar o repositorio da aplicação [clicando aqui.](https://github.com/MateusAquino/) (Link temporario até o Mafios subir a aplicação completamente para o GitHub)
+Você pode encontrar o repositorio da aplicação [clicando aqui.](https://github.com/MateusAquino/autoamong)
 
 **DISCLAIMER:** Esse projeto foi feito com intuito de estudar a biblioteca e suprir **NOSSAS** necessidades, você não vai conseguir apenas dar clone no projeto e ligar seu bot, recomendo apenas a utilizar para estudar a biblioteca igual a gente.
 
