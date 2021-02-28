@@ -28,7 +28,7 @@ entre em contato comigo pelo **Twitter** [@Lxkkjj](https://twitter.com/lxkkjj)
 
 ## <b><b style='color:Red'>Contribuição</b></b>
 
-O Projeto foi criado e é atulizado pelos devs do **Discord AmongOOC**
+O Projeto foi criado pelos devs do **Discord AmongOOC**
 
 <b><b style='color:red'>Mafios</b></b> ([MateusAquino](https://github.com/MateusAquino/))<br>
 <b><b style='color:orange'>Brandino</b></b> ([LuisBrandino](https://github.com/luisbrandino))<br>
