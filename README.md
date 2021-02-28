@@ -24,7 +24,8 @@ Abaixo alguns links úteis para utilizar o projeto ou criar o seu do zero.<br>
 
 ## <b><b style='color:gray'>Dúvidas?</b></b>
 Tem alguma dúvida em relação ao **projeto** ou alguma duvida pertinente envolvendo o **Discord.JS**?<br>
-entre em contato comigo pelo **Twitter** [@Lxkkjj](https://twitter.com/lxkkjj)
+Entre em contato comigo pelo **Twitter** [@Lxkkjj](https://twitter.com/lxkkjj)<br>
+Ou entre em contato com o Mafios pelo Discord **Mafios#1972**
 
 ## <b><b style='color:Red'>Contribuição</b></b>
 
